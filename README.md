@@ -25,6 +25,9 @@ App Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/947ce20b-c3f7-405f-9260-11dd1133348d" width="250" />
   <img src="https://github.com/user-attachments/assets/2bc0e700-8f26-49b7-8edc-efd5bcfd3d7f" width="250" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f70ad0b1-a7a2-4624-b78d-83ecdb4ea65f" width="250" />
   <img src="https://github.com/user-attachments/assets/46c8d36a-50de-4e10-b8c7-2b62ab14dc05" width="250" />
 </p>
